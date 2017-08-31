@@ -1,0 +1,29 @@
+.body {
+	background-color:#fae596;
+    text-align: center;
+}
+
+a.button {
+    text-decoration: underline;
+    color:#173e43;
+    font-size:120px;
+    position:absolute;
+    left:400px;
+    top:250px;
+    height:150px;
+    width:600px;
+    background-color:#f2efe8;
+}
+
+.loose
+{
+    text-decoration: underline;
+    color:black;
+    font-size:50px;
+    position:absolute;
+    left:400px;
+    top:250px;
+    height:150px;
+    width:600px;
+    background-color:#f2efe8;
+}
